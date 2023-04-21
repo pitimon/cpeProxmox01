@@ -18,7 +18,9 @@ apt install git
 ```
 - Request step
 ```
-
+apt upgrade -y
+dpkg-reconfigure tzdata
+apt install tmux htop -y
 ```
 ## Docker Engine install
 [https://docs.docker.com/engine/install/ubuntu/]
@@ -41,4 +43,12 @@ echo \
 sudo apt-get update
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin docker-compose -y
+```
+
+## Gitea app
+[https://gitea.io/en-us/]
+[https://docs.gitea.io/en-us/install-with-docker/]
+```
+mkdir gitea
+cd gitea
 ```
