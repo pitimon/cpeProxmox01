@@ -11,7 +11,15 @@ Get-WindowsCapability -Online | ? Name -like 'OpenSSH*'
 ```
 Add-WindowsCapability -Online -Name OpenSSH.Client*
 ```
+## Prepare Guest
+```
+apt update
+apt install git
+```
+- Request step
+```
 
+```
 ## Docker Engine install
 [https://docs.docker.com/engine/install/ubuntu/]
 ```
