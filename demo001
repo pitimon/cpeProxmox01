@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T00:54:13.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="926c3wEP1DsoapMbPIS7" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T00:54:51.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="u_ohEdjOzZvFhOF1H8e5" version="21.2.1" type="github">
   <diagram name="Page-1" id="pyXUaWQA8ilIZICjidkp">
     <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="_PpJd-AgR8QhVjLP8RUp-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="660" y="380" width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="_PpJd-AgR8QhVjLP8RUp-2" value="Ops" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="_PpJd-AgR8QhVjLP8RUp-2" value="Ops" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="350" y="440" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_PpJd-AgR8QhVjLP8RUp-3" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="_PpJd-AgR8QhVjLP8RUp-3" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="610" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_PpJd-AgR8QhVjLP8RUp-6" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_PpJd-AgR8QhVjLP8RUp-6" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_PpJd-AgR8QhVjLP8RUp-7" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;rounded=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_PpJd-AgR8QhVjLP8RUp-2" target="_PpJd-AgR8QhVjLP8RUp-6">
