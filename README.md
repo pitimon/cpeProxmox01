@@ -58,9 +58,9 @@ docker-compose -f compose.yml up
 ```
 
 ## Revert Proxy by Ngork
-[https://ngrok.com/]
+- [https://ngrok.com/]
 - Revert Tunnel SSH
-[https://ngrok.com/docs/secure-tunnels/tunnels/ssh-reverse-tunnel-agent/]
+- [https://ngrok.com/docs/secure-tunnels/tunnels/ssh-reverse-tunnel-agent/]
 ```
 ssh-keygen -t ed25519 -C "ChangeMe"
 cat /root/.ssh/id_ed25519.pub
@@ -80,8 +80,8 @@ ssh -R 443:localhost:3000 v2@tunnel.ngrok.com http
 
 ## Get App password Gmail
 [https://myaccount.google.com/apppasswords]
-SMTP Server: smtp.gmail.com
-Port: 587
-Authen Username : xxx
-App Password: xxx
+- SMTP Server: smtp.gmail.com
+- Port: 587
+- Authen Username : xxx
+- App Password: xxx
 
